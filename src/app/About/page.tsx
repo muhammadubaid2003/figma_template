@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import { FaCartShopping } from 'react-icons/fa6'
 import { LiaShippingFastSolid } from 'react-icons/lia'
 
 const page = () => {
