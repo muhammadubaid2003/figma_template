@@ -295,7 +295,7 @@ const Hero = () => {
             <div className="mt-4 flex items-center justify-between">
             <div>
                 
-                <a href='/SingleProductPage' className="text-gray-900 hover:text-teal-500 title-font text-lg font-medium mb-2">
+                <a href='/product/SingleProductPage' className="text-gray-900 hover:text-teal-500 title-font text-lg font-medium mb-2">
                 Library Stool Chair
                 </a>
                 <p className="text-gray-600 text-base mb-2">$16.00</p>
