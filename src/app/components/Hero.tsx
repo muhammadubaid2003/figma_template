@@ -4,7 +4,7 @@ import { FaShoppingCart } from 'react-icons/fa';
 
 const Hero = () => {
   return (
-    <div>
+    <div className="bg-white">
     {/* Hero section */}
       <section className="bg-gray-100 py-16 px-8 sm:px-12">
         <div className="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 space-x-0 md:space-x-[100px] w-full">
