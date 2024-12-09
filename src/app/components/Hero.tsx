@@ -51,7 +51,7 @@ const Hero = () => {
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
         <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
           <img
-            alt="ecommerce"
+            alt="e-commerce"
             className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
             src="/Image.png"
           />
@@ -78,7 +78,7 @@ const Hero = () => {
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
         <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
           <img
-            alt="ecommerce"
+            alt="e-commerce"
             className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
             src="/Image 1.png"
           />
@@ -105,7 +105,7 @@ const Hero = () => {
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
         <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
           <img
-            alt="ecommerce"
+            alt="e-commerce"
             className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
             src="/Image 2.png"
           />
@@ -132,7 +132,7 @@ const Hero = () => {
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
         <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
           <img
-            alt="ecommerce"
+            alt="e-commerce"
             className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
             src="/Image 3.png"
           />
@@ -169,7 +169,7 @@ const Hero = () => {
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
         <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
           <img
-            alt="ecommerce"
+            alt="e-commerce"
             className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
             src="/Image 4.png"
           />
@@ -187,7 +187,7 @@ const Hero = () => {
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
         <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
           <img
-            alt="ecommerce"
+            alt="e-commerce"
             className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
             src="/Image 5.png"
           />
@@ -205,7 +205,7 @@ const Hero = () => {
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
         <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
           <img
-            alt="ecommerce"
+            alt="e-commerce"
             className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
             src="/Image 6.png"
           />
@@ -283,7 +283,7 @@ const Hero = () => {
         <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
             <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
             <img
-                alt="ecommerce"
+                alt="e-commerce"
                 className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
                 src="/Image.png"
             />
@@ -311,7 +311,7 @@ const Hero = () => {
         <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
             <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
             <img
-                alt="ecommerce"
+                alt="e-commerce"
                 className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
                 src="/Image 1.png"
             />
@@ -338,7 +338,7 @@ const Hero = () => {
         <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
             <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
             <img
-                alt="ecommerce"
+                alt="e-commerce"
                 className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
                 src="/Image 2.png"
             />
@@ -366,7 +366,7 @@ const Hero = () => {
         <div className="lg:w-1/4 md:w-1/2 p-4 w-full relative">
             <a className="block relative h-64 rounded overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
             <img
-                alt="ecommerce"
+                alt="e-commerce"
                 className="object-cover object-center w-full h-full block transition-transform duration-300 transform hover:scale-110"
                 src="/Image 3.png"
             />
