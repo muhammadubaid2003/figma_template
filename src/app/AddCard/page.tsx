@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
-import { AiOutlineHeart } from 'react-icons/ai'; // Heart icon
-import { FiTrash } from 'react-icons/fi'; // Delete icon
+import { AiOutlineHeart } from 'react-icons/ai';
+import { FiTrash } from 'react-icons/fi'; 
 
 export default function BuyingProduct() {
   return (

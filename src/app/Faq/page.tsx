@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaPlus } from 'react-icons/fa'; // Import the plus icon from react-icons
+import { FaPlus } from 'react-icons/fa';
 
 const Faqs = () => {
   return (

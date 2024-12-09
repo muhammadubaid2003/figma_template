@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaShoppingCart } from 'react-icons/fa'
-import { FaCartPlus } from 'react-icons/fa'; // React Cart Icon
+import { FaCartPlus } from 'react-icons/fa'; 
 
 const page = () => {
   return (
