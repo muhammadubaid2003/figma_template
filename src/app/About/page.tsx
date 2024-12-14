@@ -4,7 +4,7 @@ import { LiaShippingFastSolid } from 'react-icons/lia'
 
 const page = () => {
   return (
-    <div>FaCartShopping
+    <div>
       <section className="text-gray-600 body-font py-12">
   <div className="container px-5 md:px-28 mx-auto flex flex-wrap md:flex-nowrap justify-center md:justify-between">
     {/* Content Section */}
